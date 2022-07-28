@@ -26,17 +26,14 @@
 
 ## Citação
 
-NÃO OFICIAL
+DOI: https://doi.org/10.5753/sbc.9399.1.1
 
 ```
-@inproceedings{222646,
-    author={Bárbara Neves and Lucas Gaspar and Luis Gustavo Coutinho do Rêgo and Ticiana Coelho da Silva and José Macedo},
-    title={Processamento de Linguagem Natural via Aprendizagem Profunda},
-    booktitle={CSBC 2022 - JAI 2022 ()},
-    days={19-19},
-    month={mar},
-    year={2022},
-    url={http://XXXXX/222646.pdf}
+@article{neves2022nlp,
+  title={Processamento de Linguagem Natural via Aprendizagem Profunda},
+  author={Neves Oliveira, B{\'a}rbara St{\'e}phanie and do R{\^e}go, Lu{\'\i}s Gustavo C and Peres, Lucas and da Silva, Ticiana L Coelho and de Mac{\^e}do, Jos{\'e} Ant{\^o}nio F},
+  journal={Sociedade Brasileira de Computa{\c{c}}{\~a}o},
+  year={2022}
 }
 
 ```
