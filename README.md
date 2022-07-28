@@ -1,5 +1,7 @@
 # [CSBC JAI 2022](https://csbc.sbc.org.br/2022/jai/): Processamento de Linguagem Natural via Aprendizagem Profunda
 
+**DOI:** https://doi.org/10.5753/sbc.9399.1.1
+
 <p align="center">
   <img
     src="resources/imagens/prelim_history.png"
@@ -25,8 +27,6 @@
 </p>
 
 ## Citação
-
-DOI: https://doi.org/10.5753/sbc.9399.1.1
 
 ```
 @article{neves2022nlp,
