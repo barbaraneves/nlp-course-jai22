@@ -1,6 +1,6 @@
 # [CSBC JAI 2022](https://csbc.sbc.org.br/2022/jai/): Processamento de Linguagem Natural via Aprendizagem Profunda
 
-**DOI:** https://doi.org/10.5753/sbc.9399.1.1
+**DOI:** doi.org/10.5753/sbc.9399.1.1
 
 <p align="center">
   <img
@@ -26,9 +26,10 @@
   >
 </p>
 
-## Apresentação 
+## Apresentação & Drive
 
-[Apresentação de *slides*](https://docs.google.com/presentation/d/e/2PACX-1vQPXP5xkfOGRj0rknIaY-5pRjLS5-TEVtGE7ac0fvC8y_AJVDvxM3eAAfAQMRfJZQ/pub?start=false&loop=false&delayms=3000&slide=id.p2) do minicurso feita no JAI, dia 1 de Agosto de 2022.
+- [Apresentação de *slides*](https://docs.google.com/presentation/d/e/2PACX-1vQPXP5xkfOGRj0rknIaY-5pRjLS5-TEVtGE7ac0fvC8y_AJVDvxM3eAAfAQMRfJZQ/pub?start=false&loop=false&delayms=3000&slide=id.p2) do minicurso feita no JAI, dia 1 de Agosto de 2022.
+- [Pasta do Drive](https://drive.google.com/drive/folders/1CTga0j-zhMXEd80uIJ1rNtwRQ_MCbcOv?usp=sharing) com os *notebooks*.
 
 ## Citação
 
