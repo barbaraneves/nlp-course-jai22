@@ -26,6 +26,10 @@
   >
 </p>
 
+## Apresentação 
+
+[Apresentação de *slides*](https://docs.google.com/presentation/d/e/2PACX-1vQPXP5xkfOGRj0rknIaY-5pRjLS5-TEVtGE7ac0fvC8y_AJVDvxM3eAAfAQMRfJZQ/pub?start=false&loop=false&delayms=3000&slide=id.p2) do minicurso feita no JAI, dia 1 de Agosto de 2022.
+
 ## Citação
 
 ```
